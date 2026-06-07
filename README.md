@@ -51,11 +51,11 @@ Hệ thống có các chức năng chính sau:
 .
 ├── README.md
 ├── report/
-│   └── Bao_cao_Audio_KWS_ESP32_Pham_Van_Huu_Dang.pdf
+│   └── PhamVanHuuDang_final_cuoiky.docx
 ├── arduino/
-│   └── Voice_Fan_Control_ESP32S3.ino
+│   └── Dieu_Khien_Quat_Dien_Bang_Giong_Noi.ino
 ├── edge_impulse/
-│   └── ei-dieu_khien_quat_bang_giong_noi-arduino-1.0.3-impulse.zip
+│   └── ei-dieu_khien_quat_bang_giong_noi-arduino-1.0.3-impulse-#1.zip
 
 ```
 
